@@ -8,4 +8,4 @@ Datasets:
   
 Elastic Search search engine: https://www.elastic.co/downloads/elasticsearch
 
-Source Code: Python source code for DS1 is available in Source.zip file
+Source Code: Python source code for DS1 is available in Source.zip file (First start the elastic search server and execute index.py)
