@@ -5,3 +5,7 @@ Datasets:
   3. Reuters (DS3) 
   4. SED2013 (DS4) 
   5. SED2014 (DS5) 
+  
+Elastic Search search engine: https://www.elastic.co/downloads/elasticsearch
+
+Source Code: Python source code for DS1 is available in Source.zip file
